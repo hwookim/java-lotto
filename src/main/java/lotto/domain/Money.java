@@ -1,8 +1,9 @@
-package lotto;
+package lotto.domain;
 
 /**
  * 입력된 구입 금액을 갖는 클래스
  */
+
 public class Money {
     private static final int LOTTO_PRICE = 1000;
 

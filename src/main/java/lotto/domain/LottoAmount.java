@@ -1,4 +1,4 @@
-package lotto;
+package lotto.domain;
 
 /**
  * 수동/자동 로또 장수를 저장하는 클래스
